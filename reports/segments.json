@@ -1,0 +1,42 @@
+[
+  {
+    "Segment": 2,
+    "customers": 2315,
+    "tenure": 14.79,
+    "MonthlyCharges": 77.6,
+    "NumServices": 3.22,
+    "churn_rate": 0.47,
+    "month_to_month": 0.87,
+    "label": "New, high-spend"
+  },
+  {
+    "Segment": 0,
+    "customers": 1557,
+    "tenure": 10.27,
+    "MonthlyCharges": 29.89,
+    "NumServices": 1.26,
+    "churn_rate": 0.24,
+    "month_to_month": 0.72,
+    "label": "New, low-spend"
+  },
+  {
+    "Segment": 1,
+    "customers": 2144,
+    "tenure": 56.78,
+    "MonthlyCharges": 92.1,
+    "NumServices": 5.77,
+    "churn_rate": 0.16,
+    "month_to_month": 0.27,
+    "label": "Loyal, high-spend"
+  },
+  {
+    "Segment": 3,
+    "customers": 1027,
+    "tenure": 54.56,
+    "MonthlyCharges": 31.63,
+    "NumServices": 1.85,
+    "churn_rate": 0.05,
+    "month_to_month": 0.16,
+    "label": "Loyal, low-spend"
+  }
+]
